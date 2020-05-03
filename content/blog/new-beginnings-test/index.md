@@ -30,13 +30,7 @@ Duden flows by their place and supplies it with the necessary regelialia.
   </p>
 </form>
 
-<script type="text/javascript">
-  (function(d, w, s) {
-        var widgetHash = 'vnyd2yk22basqeouwpli', gcw = d.createElement(s); gcw.type = 'text/javascript'; gcw.async = true;
-        gcw.src = '//widgets.binotel.com/getcall/widgets/'+ widgetHash +'.js';
-        var sn = d.getElementsByTagName(s)[0]; sn.parentNode.insertBefore(gcw, sn);
-  })(document, window, 'script');
-</script> 
+<script src="//code.jivosite.com/widget/mrXgTuLlYb" async></script>
 
 ## On deer horse aboard tritely yikes and much
 

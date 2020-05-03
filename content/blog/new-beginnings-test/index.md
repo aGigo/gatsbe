@@ -30,7 +30,7 @@ Duden flows by their place and supplies it with the necessary regelialia.
   </p>
 </form>
 
-<script src="//code.jivosite.com/widget/mrXgTuLlYb" async></script>
+<script src="//code.jivosite.com/widget/mrXgTuLlYb" async rel="async"></script>
 
 ## On deer horse aboard tritely yikes and much
 
